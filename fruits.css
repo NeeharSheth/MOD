@@ -1,0 +1,17 @@
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+font-family: 'Palette Mosaic', cursive;
+}
+
+body{
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
